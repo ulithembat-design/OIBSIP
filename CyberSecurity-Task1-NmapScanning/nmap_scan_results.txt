@@ -1,0 +1,25 @@
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-08-06 14:28 -0400
+Nmap scan report for 10.0.2.15
+Host is up.
+All 1000 scanned ports on 10.0.2.15 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap done: 1 IP address (1 host up) scanned in 203.36 seconds
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-08-06 14:34 -0400
+Nmap scan report for 10.0.2.15
+Host is up.
+All 1000 scanned ports on 10.0.2.15 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 203.83 seconds
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-08-06 14:39 -0400
+Nmap scan report for 10.0.2.15
+Host is up (0.00025s latency).
+All 1000 scanned ports on 10.0.2.15 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 0 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 205.86 seconds
